@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f36bf&height=150&section=header"/>
 
 <div align="center">
-  <img src/>
+
 
  <div class="center">
         <a href="https://www.instagram.com/matheuszampieri/" target="_blank">
