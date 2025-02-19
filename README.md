@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Meu nome é Matheus Racy Zampieri e moro em São Carlos - SP.<br><br>- 🔭 Estudo atualmente no Instituto Federal de São Paulo - IFSP.<br>- 📚 Estou Cursando Análise e Desenvolvimento de Sistemas.<br>- 📑 Estou buscando meu primeiro estágio na área de TI. <br>- 📱 Possuo Conhecimento Básico das linguagens C, Python, HTML e Css.</p>
+<p align="left">Meu nome é Matheus Racy Zampieri e moro em São Carlos - SP.<br><br>- 🔭 Estudo atualmente no Instituto Federal de São Paulo - IFSP.<br>- 📚 Estou Cursando Análise e Desenvolvimento de Sistemas.<br>- 📑 Estou buscando meu primeiro estágio na área de TI. <br>- 📱 Possuo Conhecimento nas linguagens C, Python, HTML e Css.</p>
 
 ###
 
