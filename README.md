@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f36bf&height=150&section=header"/>
 
 <div align="center">
 
@@ -51,5 +50,3 @@
 ### 
 <h3 align="left">📞 Contato :</h3>
 <p align="left">-Emails para contato: matheusracy09@gmail.com | matheusracy@hotmail.com | matheus.zampieri@aluno.ifsp.edu.br</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f36bf&height=150&section=footer"/>
