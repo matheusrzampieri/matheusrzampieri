@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="40" alt="dot-net logo"  />
   <img width="12" />
+  <img src="[https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" height="40" alt="dot-net logo"  />
+  <img width="12" />
 </div>
 
 ###
