@@ -48,7 +48,23 @@
 
 ###
 
+<h3 align="left">📌 Projetos:</h3>
+
+<div align="center">
+
+  <a href="https://github.com/matheusrzampieri/C-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrzampieri&repo=C-Programming&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/matheusrzampieri/HTML-CSS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrzampieri&repo=HTML-CSS&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/matheusrzampieri/JavaScript-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrzampieri&repo=JavaScript-Programming&theme=tokyonight" />
+  </a>
+
+</div>
+
 ###
-### 
+
 <h3 align="left">📞 Contato :</h3>
 <p align="left">-Emails para contato: matheusracy09@gmail.com | matheusracy@hotmail.com | matheus.zampieri@aluno.ifsp.edu.br</p>
