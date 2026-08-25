@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Meu nome é Matheus Racy Zampieri e moro em São Carlos - SP.<br><br>- 🔭 Estudo atualmente no Instituto Federal de São Paulo - IFSP.<br>- 📚 Estou Cursando Análise e Desenvolvimento de Sistemas.<br>- 📑 Estou buscando meu primeiro estágio na área de TI. <br>- 📱 Possuo Conhecimento nas linguagens C, Python, HTML, Css e JavaScript.</p>
+<p align="left">Meu nome é Matheus Racy Zampieri e moro em São Carlos - SP.<br><br>- Estudo atualmente no Instituto Federal de São Paulo - IFSP.<br>- Estou Cursando Análise e Desenvolvimento de Sistemas.<br>- Estou buscando meu primeiro estágio na área de TI. <br>- Possuo Conhecimento nas linguagens C, Python, HTML, CSS, SQL, TypeScript, React e JavaScript.</p>
 
 ###
 
@@ -44,24 +44,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" alt="dot-net logo"  />
   <img width="12" />
-</div>
-
-###
-
-<h3 align="left">📌 Projetos:</h3>
-
-<div align="center">
-
-  <a href="https://github.com/matheusrzampieri/C-Programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrzampieri&repo=C-Programming&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/matheusrzampieri/HTML-CSS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrzampieri&repo=HTML-CSS&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/matheusrzampieri/JavaScript-Programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrzampieri&repo=JavaScript-Programming&theme=tokyonight" />
-  </a>
-
 </div>
 
 ###
