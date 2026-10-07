@@ -24,8 +24,7 @@
 <h3 align="left">👩‍💻  Sobre mim:</h3>
 
 ###
-
-<p align="left">Meu nome é Matheus Racy Zampieri e moro em São Carlos - SP.<br><br>- Estudo atualmente no Instituto Federal de São Paulo - IFSP.<br>- Estou Cursando Análise e Desenvolvimento de Sistemas.<br>- Estou buscando meu primeiro estágio na área de TI. <br>- Possuo Conhecimento nas linguagens C, Python, HTML, CSS, SQL, TypeScript, React e JavaScript.</p>
+Meu nome é Matheus Racy Zampieri e moro em São Carlos - SP. <br>Estou cursando **Análise e Desenvolvimento de Sistemas**. <br> Faço parte do **[PET/ADS do IFSP São Carlos](https://github.com/pet-ads)** como **Desenvolvedor Front-End** onde contribuo ativamente para o projeto **StArt (Systematic)**. </p>
 
 ###
 
@@ -33,20 +32,37 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" alt="dot-net logo"  />
-  <img width="12" />
-</div>
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
-###
+### Back-End & Databases
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## 🚀 Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [StArt](https://github.com/pet-ads/systematic-front) | Migração da ferramenta desktop StArt para a web; a ferramenta StArt, que já existe na versão desktop, serve para facilitar o processo de revisão sistemática para pesquisadores; atuo como dev front-end (React + Chakra UI) |
+
 
 <h3 align="left">📞 Contato :</h3>
-<p align="left">-Emails para contato: matheusracy09@gmail.com | matheusracy@hotmail.com | matheus.zampieri@aluno.ifsp.edu.br</p>
+Emails para contato: matheusracy09@gmail.com | matheusracy@hotmail.com | matheus.zampieri@aluno.ifsp.edu.br
+<br>
+Número: +55 (16) 99650-2192
